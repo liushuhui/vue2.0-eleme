@@ -20,4 +20,4 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-采用vue2+webpack+vue-router+axios实现仿饿了么app。
+閲囩敤vue2+webpack+axios+vue-router瀹炵幇浠块タ浜嗕箞app
